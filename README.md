@@ -2,4 +2,4 @@
 
 How to download and setup the code?
 Use the clone function of BitBucket and setup the code in your local repository.
-You can just open index.html file to bring up your application
+You can just open index.html file to bring up your application.
